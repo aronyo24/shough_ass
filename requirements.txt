@@ -1,0 +1,12 @@
+# Library Management System - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python Version: 3.7+
+# Standard Library Modules Used:
+# - tkinter (GUI framework)
+# - sqlite3 (Database)
+# - hashlib (Password hashing)
+# - datetime (Date/time operations)
+# - re (Regular expressions)
+# - typing (Type hints)
